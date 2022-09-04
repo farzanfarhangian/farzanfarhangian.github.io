@@ -1,2 +1,2 @@
-# farzanfarhangian.github.io
-My officail GitHub page
+# gfarnadi.github.io
+My personal webpage
