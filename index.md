@@ -20,7 +20,7 @@ I received my M.Sc. degree in Electrical Engineering Department at [École de Te
 
 ### Teaching
 
-- Fall 2022: I will be teaching [Air navigation, GNSS and on-board inertial systems (MGA852)]() (in English).
+- Fall 2022: I will be teaching [Air navigation, GNSS and on-board inertial systems (MGA852)](https://www.etsmtl.ca/etudes/cours/MGA852) (in English).
 
 
 ## Contact
