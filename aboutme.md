@@ -13,14 +13,14 @@
 
 ## Industry Work Experience
 
-- Embedded systems developer @ GEOTAB, Oakville, Canada (April 2022 - present)<br><br>
+- Embedded systems developer @ <a href="https://www.geotab.com/">GEOTAB</a>, Oakville, Canada (April 2022 - present)<br><br>
 **Tasks:**<br>
 <i>Develop and Improve orientation estimation algorithms.</i><br>
 <i>C programming based on POSIX APIs on Linux environment.</i><br>
 <i>Investigate, analyze and test the firmware.</i><br>
 <i>Work based on Agile methodology in Automotive/kinematics team.</i>
 
-- Firmware engineer @ One Silicon Chip Photonics - OSCP, Montreal, Canada (5 Months)<br><br>
+- Firmware engineer @ <a href="https://onesiliconchipphotonics.com/">One Silicon Chip Photonics - OSCP</a>, Montreal, Canada (5 Months)<br><br>
 **Tasks:**<br>
 <i>Develop API and drivers of optic Lasers on Cortex M3 microprocessor.</i><br>
 <i>Optimize the firmware of ring laser fiber optic gyroscopes on SoC.</i><br>
@@ -28,7 +28,7 @@
 <i>Allan variance calculation.</i><br>
 <i>Experienced with working various oscilloscope, power supplies and other measurement and signal processing devices.</i><br>
 
-- Navigation engineer at LASSENA, Montreal, Canada (2 Years)<br><br>
+- Navigation engineer at <a href="https://www.lassena.etsmtl.ca">LASSENA</a>, Montreal, Canada (2 Years)<br><br>
 **Tasks:**<br>
 <i>Implementing and developing navigation algorithms and avionic software using C/C++/MATLAB/Python and research assisting.</i><br>
 <i>Non-GNSS positioning using the LEO satellites, loosely and tightly coupled GNSS/INS integration, and indoor localization and SLAM using wearable IMUs.</i><br>
