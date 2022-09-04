@@ -2,27 +2,53 @@
 # Air navigation, GNSS and on-board inertial systems (MGA852): Fall 2022
 
 ## Course Description
-Welcome to  Graduate level course on Trustworthy Machine Learning at HEC Montreal (English edition). This course will teach students to recognize where and understand why ethical issues and policy questions can arise when applying data science to real world problems. It will focus on ways to conceptualize, measure, and mitigate bias in data-driven decision-making.
+At the end of this course, the student will be able to:
 
-This is a graduate course, in which we will cover methods for trustworthy and ethical machine learning and AI, focusing on the technical perspective of methods that allow addressing current ethical issues. Recent years have shown that unintended discrimination arises naturally and frequently in the use of machine learning and algorithmic decision making. We will work systematically towards a technical understanding of this problem mindful of its social and legal context. This course will bring analytic and technical precision to normative debates about the role that data science, machine learning, and artificial intelligence play in consequential decision-making in commerce, employment, finance, healthcare, education, policing, and other areas. Students will learn to think critically about how to plan, execute, and evaluate a project with these concerns in mind, and how to cope with novel challenges for which there are often no easy answers or established solutions.
+distinguish the different air navigation guidance systems as well as their principles, methods and architectures;
+apply fundamental concepts in the operation of navigational instruments and essential communications between these instruments;
+to synthesize an inertial navigation system and to formulate the various calculations including the spatial orientation (attitude) of a mobile;
+analyze and synthesize problems in air navigation.
+Geodetic reference systems and celestial mechanics. Fundamentals of geopositioning and aircraft guidance. Guidance and radio navigation instruments. Modeling and simulation of navigation instruments inside a screen dashboard. Global Navigation Satellite Systems (GNSS): principles of American GPS, European Galileo, Russian Glonass, Chinese Compass and augmented systems. On-board inertial navigation: inertial sensor technologies (accelerometers, gyroscopes, magnetometers, electronic compass), geodetic coordinate systems (reference transfer), inertial navigation algorithms. Integrated and on-board navigation: design of hybrid systems by modelling, experimental simulation and analysis.
+
+Practical work sessions: modeling and simulation of guidance and radio navigation instruments within a flight management system, an inertial navigation system and a hybrid navigation system.
 
 ## Time & room
-- Fridays 3:30 pm - 6:30 pm
-- room: classroom Béton Grilli (main building on Côte-Sainte-Catherine, 1st floor)
-
-## Announcements
-TBD
+- Wednesdays 1:30 pm - 4:30  pm   (course)
+- Fridays    8:30 am - 12:30 pm   (laboratory - once per two-weeks)
 
 ## Feedback
 Please use this [form](https://forms.gle/nt8gZTp4iBUV2Zeb7) to provide feedback about the course.
 
-## Prerequisites
-Basic knowledge of machine learning will be assumed. 
-Mathematical maturity and basic knowledge of statistics, and probability will be assumed. 
-For the programming assignments and the project, Python programming will be assumed. If you do not know Python here are few ways to learn the basics below. 
+## Chapters
+**1. Introduction of air navigation systems**
 
-- [Data Camp](https://www.datacamp.com/onboarding/create_account?track_id=17): Complete Chapters 1, 2, 3 (sign in using this [link](https://www.datacamp.com/groups/shared_links/d8833e84f66e8de38ca3de07987087f93561cfd2b03a636c6d0156a699e8de50) with your @hec.ca email address to access Chapters 2 and 3). **This option is recommended**
-- [HEC CAM]() offers introductory python courses in September (currently only in French). Register at [CAM registration](https://inscription.hec.ca/cams/).
+Air navigation history. (1h)<br>
+Principles of past navigation systems. (1.5h)<br>
+Fundamental elements of modern kinematics. 2h)<br>
+Composition of a piloting and navigation cockpit. (1.5h)<br>
+
+**2. Main air navigation instruments)**
+
+Primary elements of navigation (law and principle). (2h)<br>
+Essential radio navigation instruments. (4h)<br>
+
+**3. Inertial Navigation Systems (INS)**
+
+Composition, principle and characteristic of an NIS. (3h)<br>
+Mathematical modeling and essential operations. (3h)<br>
+Simulation and performance analysis. (3h)<br>
+
+**4. Navigation by GNSS satellites and complementary systems**
+
+Global Positioning System (GPS). (3h)<br>
+Global Navigation Satellite Systems (GNSS). (3h)<br>
+Complementary navigation systems SBAS and RTK. (3h)<br>
+
+**5. Integration of navigation systems and its applications (9h)**
+
+Integration of a GPS receiver into an inertial system (SNI). (3h)<br>
+Integration of primary and secondary navigation equipment. (3h)<br>
+FMS and applications of modern navigation systems. (3h)<br>
 
 ## Grading
 Your final score for the course will be computed using the following weights:
