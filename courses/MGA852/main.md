@@ -1,4 +1,4 @@
-| [Home](index.md) | [MGA852](main.md) | [Lab 1](Lab1.md) | [Lab 2](Lab1.md) | [Project](project.md) | 
+| [Home](index.md) | [MGA852](main.md) | [Lab 1](courses/MGA852/Lab1.md) | [Lab 2](courses/MGA852/Lab2.md) | [Final project](courses/MGA852/project.md) | 
 # Air navigation, GNSS and on-board inertial systems (MGA852): Fall 2022
 
 ## Course Description
