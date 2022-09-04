@@ -17,9 +17,6 @@ Practical work sessions: modeling and simulation of guidance and radio navigatio
 - Fridays    8:30 am - 12:30 pm   (laboratory - once per two-weeks)
 - Location: remotely by ZOOM
 
-## Feedback
-Please use this [form](https://forms.gle/nt8gZTp4iBUV2Zeb7) to provide feedback about the course.
-
 ## Chapters
 **1. Introduction of air navigation systems**
 
