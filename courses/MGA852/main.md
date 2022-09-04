@@ -34,7 +34,7 @@ Essential radio navigation instruments. (4h)<br>
 
 **3. Inertial Navigation Systems (INS)**
 
-Composition, principle and characteristic of an NIS. (3h)<br>
+Composition, principle and characteristic of an INS. (3h)<br>
 Mathematical modeling and essential operations. (3h)<br>
 Simulation and performance analysis. (3h)<br>
 
@@ -46,7 +46,7 @@ Complementary navigation systems SBAS and RTK. (3h)<br>
 
 **5. Integration of navigation systems and its applications (9h)**
 
-Integration of a GPS receiver into an inertial system (SNI). (3h)<br>
+Integration of a GPS receiver into an inertial system (INS). (3h)<br>
 Integration of primary and secondary navigation equipment. (3h)<br>
 FMS and applications of modern navigation systems. (3h)<br>
 
