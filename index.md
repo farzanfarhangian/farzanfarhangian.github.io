@@ -1,4 +1,4 @@
-| [About me](aboutme.md) | [Publications](publications.md) | [Awards](awards.md) | [Teaching](teaching.md) | [Group](student.md) | 
+| [About me](aboutme.md) | [Publications](publications.md) | [Teaching](teaching.md) |
 
 ## Research Assistant and Professional Researcher at École de technologie supérieure ÉTS, Montréal
 
