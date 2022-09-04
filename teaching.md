@@ -1,5 +1,4 @@
-| [Home](index.md) | [Publications](publications.md) | [Talks](talks.md) | [Visits](visits.md) | [Awards](awards.md) | [Teaching](teaching.md) | [Group](student.md) | 
-
+| [Home](index.md) | [About me](aboutme.md) | [Publications](publications.md) | 
 ## Teaching 
 **Trustworthy Machine Learning (Fall 2022), HEC Montreal/Mila**
 
