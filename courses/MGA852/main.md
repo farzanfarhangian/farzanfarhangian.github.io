@@ -12,9 +12,10 @@ Geodetic reference systems and celestial mechanics. Fundamentals of geopositioni
 
 Practical work sessions: modeling and simulation of guidance and radio navigation instruments within a flight management system, an inertial navigation system and a hybrid navigation system.
 
-## Time & room
+## Time & location
 - Wednesdays 1:30 pm - 4:30  pm   (course)
 - Fridays    8:30 am - 12:30 pm   (laboratory - once per two-weeks)
+- Location: remotely by ZOOM
 
 ## Feedback
 Please use this [form](https://forms.gle/nt8gZTp4iBUV2Zeb7) to provide feedback about the course.
@@ -53,10 +54,11 @@ FMS and applications of modern navigation systems. (3h)<br>
 ## Grading
 Your final score for the course will be computed using the following weights:
 
-- [Active in-class participation](lectures.md) (10%)
-- [Paper review](assingment.md) (15%)
-- [Paper presentation](assingment.md) (15%)
-- [Final Project](project.md) (60%)
+- Assignments (30%)
+- Final exam (20%)
+- Laboratory and final project (50%)
 
-
-ATTENTION regarding fraud and plagiarism: The HEC Montreal has a strict policy in case of fraud or plagiarism. If an infraction is found, the professor is required to report to the director of the department. An administrative procedure is then automatically triggered with the following consequences: the offense is noted in your file, and a sanction is decided (which can be serious and go to dismissal in case of recidivism). It is important that you do the work yourself!
+The laboratory part includes 2 labs and a final project with the percentages below:
+- [Lab 1](Lab1.md) (12.5%)
+- [Lab 2](Lab2.md) (12.5%)
+- [Final project](project.md) (25%)
