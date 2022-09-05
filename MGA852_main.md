@@ -1,4 +1,4 @@
-| [Home](index.md) | [MGA852](MGA852_main.md) | [Laboratory material](https://github.com/farzanfarhangian/farzanfarhangian.github.io/tree/main/Lab_material) | 
+| [Home](index.md) | [Laboratory material](https://github.com/farzanfarhangian/farzanfarhangian.github.io/tree/main/Lab_material) | 
 # Air navigation, GNSS and on-board inertial systems (MGA852): Fall 2022
 
 ## Course Description
