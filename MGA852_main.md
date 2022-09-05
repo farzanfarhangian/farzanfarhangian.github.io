@@ -59,3 +59,10 @@ The laboratory part includes 2 labs and a final project with the percentages bel
 - [Lab 1](Lab1.md) (12.5%)
 - [Lab 2](Lab2.md) (12.5%)
 - [Final project](project.md) (25%)
+
+## Questions
+If you have any question or inqueries about the course please contact me with the email address below:
+Email: [farzan.farhangian@etsmtl.ca](farzan.farhangian@etsmtl.ca)
+
+## Feedback
+Please share your ideas, strength or weakness points of the course with me by filling this form. I always read the feedbacks to improve the course and materials.
