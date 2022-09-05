@@ -65,4 +65,4 @@ If you have any question or inqueries about the course please contact me with th
 Email: [farzan.farhangian@etsmtl.ca](farzan.farhangian@etsmtl.ca)
 
 ## Feedback
-Please share your ideas, strength or weakness points of the course with me by filling this form. I always read the feedbacks to improve the course and materials.
+Please share your ideas, strength or weakness points of the course with me by filling [this](https://docs.google.com/forms/d/1MW7eIjIdwy3keQMYO5UIQb7oNy8BdVVdEQ8I263FSaw/edit?usp=sharing) form. I always read the feedbacks to improve the course and materials.
