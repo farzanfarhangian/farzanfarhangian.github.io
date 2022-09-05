@@ -3,14 +3,14 @@
 
 ## Course Description
 At the end of this course, the student will be able to:
-
+<p align="justify"> 
 distinguish the different air navigation guidance systems as well as their principles, methods and architectures;
 apply fundamental concepts in the operation of navigational instruments and essential communications between these instruments;
 to synthesize an inertial navigation system and to formulate the various calculations including the spatial orientation (attitude) of a mobile;
-analyze and synthesize problems in air navigation.
-Geodetic reference systems and celestial mechanics. Fundamentals of geopositioning and aircraft guidance. Guidance and radio navigation instruments. Modeling and simulation of navigation instruments inside a screen dashboard. Global Navigation Satellite Systems (GNSS): principles of American GPS, European Galileo, Russian Glonass, Chinese Compass and augmented systems. On-board inertial navigation: inertial sensor technologies (accelerometers, gyroscopes, magnetometers, electronic compass), geodetic coordinate systems (reference transfer), inertial navigation algorithms. Integrated and on-board navigation: design of hybrid systems by modelling, experimental simulation and analysis.
-
+analyze and synthesize problems in air navigation.<br>
+Geodetic reference systems and celestial mechanics. Fundamentals of geopositioning and aircraft guidance. Guidance and radio navigation instruments. Modeling and simulation of navigation instruments inside a screen dashboard. Global Navigation Satellite Systems (GNSS): principles of American GPS, European Galileo, Russian Glonass, Chinese Compass and augmented systems. On-board inertial navigation: inertial sensor technologies (accelerometers, gyroscopes, magnetometers, electronic compass), geodetic coordinate systems (reference transfer), inertial navigation algorithms. Integrated and on-board navigation: design of hybrid systems by modelling, experimental simulation and analysis.<br>
 Practical work sessions: modeling and simulation of guidance and radio navigation instruments within a flight management system, an inertial navigation system and a hybrid navigation system.
+</p>
 
 ## Time & location
 - Wednesdays 1:30 pm - 4:30  pm   (course)
