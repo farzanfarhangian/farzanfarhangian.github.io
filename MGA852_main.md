@@ -56,9 +56,12 @@ Your final score for the course will be computed using the following weights:
 - Laboratory and final project (50%)
 
 The laboratory part includes 2 labs and a final project with the percentages below:
-- [Lab 1](Lab1.md) (12.5%)
-- [Lab 2](Lab2.md) (12.5%)
-- [Final project](project.md) (25%)
+- Lab 1 (12.5%)
+- Lab 2 (12.5%)
+- Final project (25%)
+
+The description of laboratories and the final project is accessible in [This GitHub Repository](https://github.com/farzanfarhangian/farzanfarhangian.github.io/tree/main/Lab_material). <br>
+You can use these sample codes and files for your laboratory and final project deliveries.
 
 ## Questions
 If you have any question or inqueries about the course please contact me with the email address below:
