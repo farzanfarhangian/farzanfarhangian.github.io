@@ -1,4 +1,4 @@
-| [Home](index.md) | [Laboratory material](https://github.com/farzanfarhangian/farzanfarhangian.github.io/tree/main/Lab_material) | 
+| [Home](index.md) | [Laboratory material](https://github.com/farzanfarhangian/MGA852_Indoor_Positioning_Course) | 
 # Air navigation, GNSS and on-board inertial systems (MGA852): Fall 2022
 
 ## Course Description
@@ -60,7 +60,7 @@ The laboratory part includes 2 labs and a final project with the percentages bel
 - Lab 2 (12.5%)
 - Final project (25%)
 
-The description of laboratories and the final project is accessible in [This GitHub Repository](https://github.com/farzanfarhangian/farzanfarhangian.github.io/tree/main/Lab_material). <br>
+The description of laboratories and the final project is accessible in [This GitHub Repository](https://github.com/farzanfarhangian/MGA852_Indoor_Positioning_Course). <br>
 You can use these sample codes and files for your laboratory and final project deliveries.
 
 ## Questions
@@ -68,4 +68,4 @@ If you have any question or inqueries about the course please contact me with th
 Email: [farzan.farhangian@etsmtl.ca](farzan.farhangian@etsmtl.ca)
 
 ## Feedback
-Please share your ideas, strength or weakness points of the course with me by filling [this](https://docs.google.com/forms/d/1MW7eIjIdwy3keQMYO5UIQb7oNy8BdVVdEQ8I263FSaw/edit?usp=sharing) form. I always read the feedbacks to improve the course and materials.
+Please share your ideas, strength or weakness points of the course with me by filling [This](https://docs.google.com/forms/d/1MW7eIjIdwy3keQMYO5UIQb7oNy8BdVVdEQ8I263FSaw/edit?usp=sharing) form. I always read the feedbacks to improve the course and materials.
